@@ -3,7 +3,7 @@
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/phlourishdev/DSBgo)
 ![GitHub Tag](https://img.shields.io/github/v/tag/phlourishdev/DSBgo)
 
-DSBgo provides a library for accessing DSBmobile. Go translation for [mojansch/pydsb](https://github.com/mojansch/pydsb).
+DSBgo is a package providing access to DSBmobile. Go translation for [mojansch/pydsb](https://github.com/mojansch/pydsb).
 
 ## Features
 - [X] Getting plans
