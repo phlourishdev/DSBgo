@@ -11,7 +11,7 @@ import (
 
 const BaseURL = "https://mobileapi.dsbcontrol.de"
 
-// Plan structure fo JSON respond from API
+// Plan structure of JSON respond from API
 type Plan struct {
 	Childs []Child // Not a typo
 }
